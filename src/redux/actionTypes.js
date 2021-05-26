@@ -1,0 +1,3 @@
+export const FETCH_COUNTRIES = "FETCH_COUNTRIES";
+export const FETCH_ERROR = "FETCH_ERROR";
+export const FETCH_LOADING = "FETCH_LOADING";
